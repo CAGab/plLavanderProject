@@ -1,4 +1,7 @@
 # plLavanderProject
+Team Lead: Gabriel, Cheiron
+Rapporteur: Almadrigo, David
+Member: Reyes, Jayce
 
 Student Information and Attendance Checker (SIAC)
 
