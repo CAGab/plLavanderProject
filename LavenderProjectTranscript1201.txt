@@ -1,0 +1,45 @@
+We are the team lavender, since team lavender came up to an idea of 
+creating a program that will help the professors of getting the 
+information and attendance of their students since we are in online 
+classes. The title of the project is (SIAC) Student’s Information and 
+Attendance Checker. The application is intended to keep a record of a 
+list of students in a class along with their full name, courses and 
+respective student code.
+
+The team managed to create the program by basing on our past activities 
+such as the activities DE8 and Lab8. Because these activities is about 
+creating dictionaries. Dictionaries are one of the most useful data 
+types in Python. Python lists, as previously shown, are ordered 
+collections that use a numerical offset. We also used codes such as 
+lists, esle if statements and while loops.
+
+The team is not yet finished with its code for the project but yet 
+we have already made a progress. which we have created dictionaries,
+lists, loops, functions and if statements. and while we are creating our 
+code we have encountered such problems and errors that help us reflect
+to it and come up to solutions and fixed it.
+
+While we are creating our python code. The first error that we've 
+encountered is that the first code we made is not processing correctly 
+it errors and shows syntax errors due to some wrong codes because we are 
+just using trial and error technique so we can know what is lacking. 
+And sometimes we forgot to put colons, comma, equals and etc. thats why 
+we end up in an syntax error code. We are also having trouble on appending 
+the new dictionaries that we have input. it only replaces the other 
+existing values.
+
+Our coding for today has a big progress that we've already completed 2/4 
+features of our program. With our codes based from different activities, 
+we have a grasp of understanding to how we would be creating our project 
+like how would we want it to be.
+
+In the python code that we have started to create. we used dictionaries 
+for us to store the datas such as student's names, student's numbers, 
+room numbers, time and name of the proffesor Because we would be listing 
+a  number of students, we used loops for efficiency. The user would be 
+able to make the decision to continue the loop or discontinue it by 
+typing certain commands. we used loop for us to input the data that we 
+needed. We used a function to make the append command work on strings 
+in dictionaries and lastly we use else if statements for the decision 
+making of out program.
+
