@@ -1,3 +1,4 @@
 We were able to complete 2 features and that is to be able to Display the course's Instructor, Meeting Time & Room Number and to be able to Display the course with its
 corresponding students. We have encountered a problem with the making the addition of students in a dictionary. We were able to observe that you cannot use 
-'.append' command in dictionaries so what we did was we made a function (def) that helps us append the input into a dictionary.
+'.append' command in dictionaries so what we did was we made a function (def) that helps us append the input into a dictionary. As of December 4, 2020 there are still
+2 more features to be added into the python program.
