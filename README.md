@@ -7,7 +7,7 @@ Member: Reyes, Jayce
 
 Student Information and Attendance Checker (SIAC)
 
-An app intended to keep record a list of students in a class along with their full name and check their attendance.
+An app intended to keep record a list of students in a class along with their last name and check their attendance.
 
 Features: 
 - Be able to add or remove a course(subject)
