@@ -81,7 +81,29 @@ while True:
                     break
         else:
             print("Invalid course code")
+            
+    elif user_input == "Remove":
+        course_code = str(input("Enter a course code: "))
 
+        def remove_value(dict, key, value):
+            if key in dict:
+                if not isinstance(dict[key], list):
+                    dict[key] = [dict[key]]
+                dict[key].remove(value)
+        if course_code in instructor:
+            while True:
+                s_name_remove = str(input("Enter Student name: "))
+                remove_value(student_name, course_code, s_name_remove)
+                s_no_remove = str(input("Enter Student number: "))
+                remove_value(student_no, course_code, s_no_remove)
+                rquestion1 = str(input("Remove the student from course? Yes or No? "))
+                if rquestion1 == "Yes":
+                    break
+                elif rquestion1 == "No":
+                    continue
+        else:
+            print("Invalid course code")
+            
     elif user_input == "Change":
         course_code = str(input("Enter a course code: "))
         new_ins = str(input("What is the new instructor's name? "))
