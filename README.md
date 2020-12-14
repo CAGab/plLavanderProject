@@ -17,4 +17,4 @@ Features:
 - Be able to run an attendance check of students within the course
 
 Summary report of the system:
-List of students in a course along with their student code and if they're present or absent in the course
+List of students in a course and if they're present or absent in the course
