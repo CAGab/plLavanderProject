@@ -1,8 +1,8 @@
 instructor = {"BES241": "Ruiz", "TRONIC1": "Malino", "OBORPRG": "Dereje", "IT212": "Meimban", "MATSCI": "Matias"}
 time = {"BES241": "7:30 am", "TRONIC1": "10:30 am", "OBORPRG": "1:30 pm", "IT212": "4:30 pm", "MATSCI": "6:00 pm"}
 room = {"BES241": "204", "TRONIC1": "307", "OBORPRG": "308", "IT212": "212", "MATSCI": "303"}
-student_name = {"BES241": ['David', 'Jayce', 'Gabriel']}
-attendance = {"BES241": []}
+student_name = {"BES241": [], "TRONIC1": [], "OBORPRG": [], "IT212": [], "MATSCI": []}
+attendance = {"BES241": [], "TRONIC1": [], "OBORPRG": [], "IT212": [], "MATSCI": []}
 
 print("Here are the following commands for this program:\n" 
       "\nCourses - View details of a course"
@@ -20,9 +20,9 @@ while True:
         course_code = str(input("Enter a course code: "))
         if course_code in instructor:
             print("Instructor for this course is Prof.", instructor[course_code])
-            print("Time for the course: ", time[course_code])
-            print("Room for the course: ", room[course_code])
-            print("Students under this course: ", student_name[course_code])
+            print("Time for the course:", time[course_code])
+            print("Room for the course:", room[course_code])
+            print("Students under this course:", student_name[course_code])
             print("Students' attendance, respectively:", attendance[course_code])
         else:
             print("Invalid course code.")
