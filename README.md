@@ -5,7 +5,7 @@ Rapporteur: Almadrigo, David
 
 Member: Reyes, Jayce
 
-Student Information and Attendance Checker (SIAC)
+Course Information and Attendance Checker (CIAC)
 
 An app intended to keep record a list of students in a class along with their full name and check their attendance.
 
