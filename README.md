@@ -1,3 +1,4 @@
+![Image of CIACPoster] (https://github.com/CAGab/plLavanderProject/blob/main/CIACPoster.png)
 # plLavanderProject
 Team Lead: Gabriel, Cheiron
 
